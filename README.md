@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ankit Singh a computer Science professional skilled in MERN stack and Java
+I’m Ankit Singh, a Computer Science professional skilled in Python, Machine Learning, and MERN Stack Development, enabling me to work across both data-driven and full-stack application domains. With Python, I have hands-on experience in data preprocessing, model training, evaluation, and building end-to-end machine learning workflows. Alongside this, my experience with the MERN stack (MongoDB, Express.js, React, and Node.js) allows me to develop dynamic, scalable, and interactive web applications. This blend of skills helps me create solutions that not only generate meaningful insights from data but also deliver seamless, real-time user experiences through modern web interfaces.
 
 
 ## 🌐 Socials:
